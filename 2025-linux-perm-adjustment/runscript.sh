@@ -3,7 +3,7 @@
 # Navigate to the directory
 cd ~/tech-vault-q2
 
-# Extract the archive
+# Extract the backup archive
 tar -xzf ~/tech-vault-q2/2025-linux-perm-adjustment/backup.tar.gz
 
 # Set permission "0664" for all extracted files
