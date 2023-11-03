@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Navigate to the directory
+cd ~/tech-vault-q2/Linux-Automation-Project/2025-linux-perm-adjustment/
+
 # Extract the backup archive
 tar -xzf backup.tar.gz
 
